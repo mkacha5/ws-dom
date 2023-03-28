@@ -1,0 +1,15 @@
+.bg-pink{
+    background-color: pink;
+}
+.container1{
+    margin: 20px;
+    padding : 20px;
+    display: flex;
+    flex-wrap: wrap;
+   justify-content: space-around;
+    gap :10px;
+}
+.fa-red{
+    color: red;
+    font-size: 30px;
+}
